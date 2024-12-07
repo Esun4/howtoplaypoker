@@ -1,0 +1,22 @@
+body{
+  padding: 25px;
+  background-color: beige;
+}
+.title {
+	color: blue;
+	text-align: center;
+}
+
+.poker-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.description {
+  text-align: center;
+  color: orange;
+  font-size: 30px;
+  font: ;
+}
